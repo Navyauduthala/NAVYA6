@@ -11,36 +11,36 @@
 ]> 
 <bookstore>
 <book>
-<bookname>Operating system</bookname>
-<bookauthor>abcd</bookauthor>
+<bookname>the complete work</bookname>
+<bookauthor>aaaa</bookauthor>
 <bookprice>$300</bookprice>
 <ISBN>98765</ISBN>
 <pages>800</pages>
 </book>
 <book>
-<bookname>Software engineering</bookname>
-<bookauthor>efgh</bookauthor>
+<bookname>mahabaratham</bookname>
+<bookauthor>bbbb</bookauthor>
 <bookprice>$800</bookprice>
 <ISBN>98543</ISBN>
 <pages>1000</pages>
 </book>
 <book>
-<bookname>Data structures</bookname>
-<bookauthor>ijkl</bookauthor>
+<bookname>stories</bookname>
+<bookauthor>cccc</bookauthor>
 <bookprice>$1000</bookprice>
 <ISBN>98345</ISBN>
 <pages>600</pages>
 </book>
 <book>
-<bookname>Computer Organisation</bookname>
-<bookauthor>mnop</bookauthor>
+<bookname>ramayaan</bookname>
+<bookauthor>valmiki</bookauthor>
 <bookprice>$900</bookprice>
 <ISBN>98675</ISBN>
 <pages>1500</pages>
 </book>
 <book>
-<bookname>Msf</bookname>
-<bookauthor>qrst</bookauthor>
+<bookname>Maths</bookname>
+<bookauthor>rmanujanam</bookauthor>
 <bookprice>$500</bookprice>
 <ISBN>98875</ISBN>
 <pages>1200</pages>
